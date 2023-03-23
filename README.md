@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkobirBozorov
-- 👀 I create iOS and Android applications
+- 👀 I create Android applications
 - 🌱 I’m currently learning Kotlin and Android App Development.
 - 💞️ I would enjoy to meet new people who know Kotlin for creating mobile applications.
 - 📫 Contact me: https://akobirbozorov.com/ | akobirbozorov2003@gmail.com | +99897143 77 78
